@@ -25,6 +25,7 @@ import androidx.compose.ui.unit.ExperimentalUnitApi
 import androidx.compose.ui.unit.TextUnit
 import androidx.compose.ui.unit.TextUnitType
 import androidx.compose.ui.unit.dp
+import com.liewjuntung.gpgui.core.User
 import compose.icons.AllIcons
 import compose.icons.FontAwesomeIcons
 import compose.icons.fontawesomeicons.Brands

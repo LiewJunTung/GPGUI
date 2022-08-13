@@ -17,7 +17,7 @@ import java.io.File
 
 
 fun main() = application {
-    val icon = painterResource("black_lock.png")
+    val icon = painterResource("launcher.webp")
     Window(
         title = "GPGUI",
         icon = icon,

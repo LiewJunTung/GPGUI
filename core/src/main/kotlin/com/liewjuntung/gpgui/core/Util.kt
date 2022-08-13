@@ -1,4 +1,4 @@
-package com.liewjuntung.screens
+package com.liewjuntung.gpgui.core
 
 import java.util.*
 
